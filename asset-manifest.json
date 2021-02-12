@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Beshoy95/Menu-react.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Beshoy95/Menu-react.git/static/js/main.f7899e36.chunk.js",
+    "main.js.map": "/Beshoy95/Menu-react.git/static/js/main.f7899e36.chunk.js.map",
+    "runtime-main.js": "/Beshoy95/Menu-react.git/static/js/runtime-main.36686158.js",
+    "runtime-main.js.map": "/Beshoy95/Menu-react.git/static/js/runtime-main.36686158.js.map",
+    "static/css/2.0aafa1eb.chunk.css": "/Beshoy95/Menu-react.git/static/css/2.0aafa1eb.chunk.css",
+    "static/js/2.a54acd38.chunk.js": "/Beshoy95/Menu-react.git/static/js/2.a54acd38.chunk.js",
+    "static/js/2.a54acd38.chunk.js.map": "/Beshoy95/Menu-react.git/static/js/2.a54acd38.chunk.js.map",
+    "index.html": "/Beshoy95/Menu-react.git/index.html",
+    "static/css/2.0aafa1eb.chunk.css.map": "/Beshoy95/Menu-react.git/static/css/2.0aafa1eb.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Beshoy95/Menu-react.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a54acd38.chunk.js.LICENSE.txt": "/Beshoy95/Menu-react.git/static/js/2.a54acd38.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/Beshoy95/Menu-react.git/static/media/fa-solid-900.f4f93856.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36686158.js",
+    "static/css/2.0aafa1eb.chunk.css",
+    "static/js/2.a54acd38.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f7899e36.chunk.js"
+  ]
+}
